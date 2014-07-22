@@ -1,5 +1,5 @@
 {
-  "name": "where",
+  "name": "where-filter",
   "version": "0.0.1",
   "description": "parses constraints to create a predicate for filtering",
   "keywords": [

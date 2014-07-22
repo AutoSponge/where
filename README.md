@@ -2,6 +2,10 @@
 
 parses constraints to create a predicate for filtering
 
+##Getting Started
+
+`npm install where-filter`
+
 ##Intro
 
 `where` takes a spec object and returns a _testSpec_ function.  The _testSpec_ function will return
