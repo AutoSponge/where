@@ -1,3 +1,8 @@
+/**
+ * create a function that compares spec objects to test objects
+ * @param specObj
+ * @returns {testSpec} function
+ */
 module.exports = function parseSpec( specObj ) {
     var parsedSpec = {fn: [], obj: []};
     if ( specObj && typeof specObj === 'object' ) {
