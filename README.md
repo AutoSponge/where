@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/AutoSponge/where.svg?branch=master)](https://travis-ci.org/AutoSponge/where)
+
 #where
 
 parses constraints to create a predicate for filtering
